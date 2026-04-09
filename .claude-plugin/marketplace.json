@@ -1,0 +1,16 @@
+{
+  "name": "aiven-ai-plugins",
+  "owner": {
+    "name": "Aiven"
+  },
+  "metadata": {
+    "description": "Plugins for building, testing, and deploying applications with Aiven cloud data services."
+  },
+  "plugins": [
+    {
+      "name": "aiven",
+      "description": "Build, test, and deploy applications using Aiven cloud data services.",
+      "source": "./"
+    }
+  ]
+}

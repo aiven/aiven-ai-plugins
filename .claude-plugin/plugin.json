@@ -1,0 +1,10 @@
+{
+  "name": "aiven",
+  "description": "Build, test, and deploy applications using Aiven cloud data services. Connects to your Aiven account automatically via OAuth — no manual token setup needed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aiven"
+  },
+  "repository": "https://github.com/aiven/aiven-ai-plugins",
+  "keywords": ["aiven", "postgres", "kafka", "database", "streaming", "cloud", "opensearch", "schema-registry", "kafka-connect", "pgbouncer", "metrics", "integrations", "vpc", "topics", "replication"]
+}

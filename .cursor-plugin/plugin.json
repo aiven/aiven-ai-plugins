@@ -1,0 +1,14 @@
+{
+  "name": "aiven",
+  "displayName": "Aiven",
+  "version": "1.0.0",
+  "description": "Build, test, and deploy applications using Aiven cloud data services. Connects to your Aiven account automatically via OAuth — no manual token setup needed.",
+  "author": {
+    "name": "Aiven"
+  },
+  "homepage": "https://aiven.io",
+  "repository": "https://github.com/aiven/aiven-ai-plugins",
+  "mcpServers": "../.mcp.json",
+  "keywords": ["aiven", "postgres", "kafka", "database", "streaming", "cloud", "opensearch", "schema-registry", "kafka-connect", "pgbouncer", "metrics", "integrations", "vpc", "topics", "replication"],
+  "license": "Apache-2.0"
+}
