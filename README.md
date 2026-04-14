@@ -1,26 +1,18 @@
 # Aiven AI Plugins
 
-A plugin for Claude and Cursor for managing services and building applications with Aiven services.
+A plugin for Claude and Cursor to easily manage services at Aiven -  
+Deploy managed PostgreSQL, Kafka, OpenSearch, ClickHouse, and other databases, streaming, and apps. Free tier available, up and running in minutes.
 
 ## Install
 
 ### Claude Code
 
-1. Add the marketplace:
+1. Add the marketplace (needed until official):
    ```
    /plugin marketplace add aiven/aiven-ai-plugins
    ```
-2. Run `/plugins`, search for "aiven", and select it to install:
-
-   ![Discover aiven plugin](assets/cursor-plugin-discover.png)
-
-3. When prompted, run:
-   ```
-   /reload-plugins
-   ```
-4. Authenticate: run `/plugins` → **Installed** → **aiven MCP** → **Enter to auth**:
-
-   ![Authenticate aiven MCP](assets/claude-plugin-auth.png)
+2. Run `/plugins`, search for "aiven", and select it to install.
+3. Ask the agent to help you get started with Aiven — it will guide you through authentication and setup.
 
 ### Cursor
 
