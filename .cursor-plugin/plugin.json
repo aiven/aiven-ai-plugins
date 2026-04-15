@@ -7,7 +7,7 @@
     "name": "Aiven"
   },
   "homepage": "https://aiven.io",
-  "logo": "https://raw.githubusercontent.com/aiven/aiven-ai-plugins/main/assets/logo.svg",
+  "logo": "assets/logo.svg",
   "primaryColor": "#FF3554",
   "repository": "https://github.com/aiven/aiven-ai-plugins",
   "mcpServers": "../.mcp.json",
