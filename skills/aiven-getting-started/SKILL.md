@@ -54,7 +54,7 @@ Wait for the user's reply — the next step depends on their answer.
 
 Then give auth instructions for their IDE:
 - **Cursor**: Go to Settings → Tools & MCP, find the "aiven" Plugin MCP Server, and click authenticate.
-- **Claude Code**: Run `/plugins`, go to Installed, select "aiven MCP", and press Enter to auth.
+- **Claude Code**: Run `/plugin`, go to Installed, select "aiven MCP", and press Enter to auth.
 
 Then:
 
